@@ -1,5 +1,5 @@
 {
-  "name": "ecnu-forum/flarum-ext-chinese-search-mariadb",
+  "name": "yaro97/flarum-ext-chinese-search-mariadb",
   "description": "Support flarum-mariadb chinese search",
   "keywords": ["flarum", "search"],
   "type": "flarum-extension",
@@ -13,8 +13,8 @@
       }
   ],
   "support": {
-      "issues": "https://github.com/ECNU-Forum/flarum-ext-chinese-search-mariadb/issues",
-      "source": "https://github.com/ECNU-Forum/flarum-ext-chinese-search-mariadb"
+      "issues": "https://github.com/yaro97/flarum-ext-chinese-search-mariadb/issues",
+      "source": "https://github.com/yaro97/flarum-ext-chinese-search-mariadb"
   },
   "require": {
       "flarum/core": ">=1.2"
